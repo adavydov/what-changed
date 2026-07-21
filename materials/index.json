@@ -1,0 +1,13 @@
+{
+  "schema_version": "what-changed.public-materials.v1",
+  "issues": [
+    {
+      "slug": "2026-07-18",
+      "period": "11–18 июля 2026",
+      "title": "AI становится производственной системой",
+      "html": "/what-changed/issues/2026-07-18/",
+      "json": "/what-changed/materials/2026-07-18/issue.json",
+      "markdown": "/what-changed/materials/2026-07-18/issue.md"
+    }
+  ]
+}

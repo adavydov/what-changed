@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[22121,["/what-changed/_next/static/chunks/2vyh4ve5u5cxc.js","/what-changed/_next/static/chunks/14mrh2-p_w84d.js","/what-changed/_next/static/chunks/2mmx4fzw_iuje.js"],"SubscriptionForm"]
+3:I[97367,["/what-changed/_next/static/chunks/2vyh4ve5u5cxc.js","/what-changed/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"page-main","id":"main-content","children":["$","div",null,{"className":"page-shell","children":[["$","section",null,{"className":"page-hero compact","children":[["$","div",null,{"className":"hero-eyebrow","children":"Бесплатная подписка"}],["$","h1",null,{"children":"Получать новые выпуски"}],["$","p",null,{"className":"hero-summary","children":"Новые выпуски приходят периодически, когда накопились существенные изменения. Формат остаётся тем же: несколько крупных историй и глубокие ссылки только там, где они нужны."}],null]}],["$","$L2",null,{}]]}]}],[["$","script","script-0",{"src":"/what-changed/_next/static/chunks/2mmx4fzw_iuje.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"RgzVk7Sw2ZsibbHcxgFng"}
+5:null
