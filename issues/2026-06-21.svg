@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1672 941" role="img" aria-labelledby="title">
+  <title id="title">Redesigning work around AI</title>
+  <rect width="1672" height="941" fill="#f8f7f2"/>
+  <g fill="none" stroke="#191919" stroke-width="2">
+    <path d="M904 214H1120V398H1336V214H1588"/>
+    <path d="M904 470H1120V654H1336V470H1588"/>
+    <path d="M1008 110V830M1228 110V830M1448 110V830"/>
+    <path d="M904 772L1566 110M1008 830L1588 250"/>
+    <rect x="1120" y="398" width="216" height="256"/>
+  </g>
+  <rect x="1120" y="398" width="108" height="128" fill="#e23b28"/>
+</svg>

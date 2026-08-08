@@ -13,6 +13,12 @@
 <priority>0.7</priority>
 </url>
 <url>
+<loc>https://adavydov.github.io/what-changed/themes/</loc>
+<lastmod>2026-07-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
 <loc>https://adavydov.github.io/what-changed/sources/</loc>
 <lastmod>2026-07-19T00:00:00.000Z</lastmod>
 <changefreq>monthly</changefreq>
@@ -44,6 +50,12 @@
 </url>
 <url>
 <loc>https://adavydov.github.io/what-changed/en/issues/</loc>
+<lastmod>2026-07-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://adavydov.github.io/what-changed/en/themes/</loc>
 <lastmod>2026-07-19T00:00:00.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
