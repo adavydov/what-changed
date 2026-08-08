@@ -1,2 +1,5 @@
-# Compiled Next.js assets are immutable deployment artifacts.
+# Static deployment artifacts are copied from a verified Next.js export.
+* text=auto eol=lf
 _next/** binary
+*.ico binary
+*.png binary
