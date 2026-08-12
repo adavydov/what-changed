@@ -1,6 +1,0 @@
-1:"$Sreact.fragment"
-2:I[22016,["/what-changed/_next/static/chunks/3txg_y4n5xcd5.js","/what-changed/_next/static/chunks/35ip4ctshr802.js"],""]
-3:I[97367,["/what-changed/_next/static/chunks/3txg_y4n5xcd5.js","/what-changed/_next/static/chunks/35ip4ctshr802.js"],"OutletBoundary"]
-4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"page-main","id":"main-content","lang":"ru","children":["$","div",null,{"className":"page-shell","children":["$","section",null,{"className":"page-hero compact","children":[["$","div",null,{"className":"hero-eyebrow","children":"Подписка"}],["$","h1",null,{"children":"Проверьте почту"}],["$","p",null,{"className":"hero-summary","children":"Откройте письмо от оператора рассылки и подтвердите адрес. После подтверждения новые выпуски смогут приходить на email."}],["$","div",null,{"className":"hero-actions","children":[["$","$L2",null,{"className":"primary-link","href":"/pricing/","children":"Вернуться к форме"}],["$","$L2",null,{"className":"secondary-link","href":"/issues/","children":"Открыть архив"}]]}]]}]}]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"BG8SHm1-RicF--nBHsmjI"}
-5:null
