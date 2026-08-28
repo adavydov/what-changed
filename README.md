@@ -5,6 +5,6 @@
 - Сайт: https://adavydov.github.io/what-changed/
 - Выпуски на русском: https://adavydov.github.io/what-changed/issues/
 - Issues in English: https://adavydov.github.io/what-changed/en/issues/
-- Опубликовано семь недель: с 1 июня по 19 июля 2026 года.
+- Опубликовано пять недель: с 1 июня по 5 июля 2026 года.
 
 Исходный код, исследовательский pipeline, сырые первоисточники, служебные журналы и приватный контекст в этот репозиторий не публикуются.
