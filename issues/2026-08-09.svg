@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1672 941" role="img" aria-labelledby="title">
+  <title id="title">A machine improves only when its work returns through a real-world test</title>
+  <rect width="1672" height="941" fill="#f8f7f2"/>
+  <g fill="none" stroke="#191919" stroke-width="2">
+    <circle cx="1010" cy="390" r="118"/>
+    <path d="M1128 390H1210"/>
+    <rect x="1210" y="270" width="230" height="240" rx="8"/>
+    <path d="M1264 390L1315 441L1388 334"/>
+    <path d="M1440 390H1535"/>
+    <path d="M1535 390V690H1010C905 690 820 605 820 500C820 438 850 390 892 390"/>
+    <path d="M884 350L924 390L884 430"/>
+  </g>
+  <rect x="1196" y="230" width="28" height="320" fill="#e23b28"/>
+  <circle cx="1010" cy="390" r="22" fill="#e23b28"/>
+  <circle cx="1535" cy="390" r="22" fill="#e23b28"/>
+</svg>
