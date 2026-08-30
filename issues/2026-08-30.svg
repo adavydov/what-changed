@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1672 941" role="img" aria-labelledby="title">
+  <title id="title">A compact model sits inside expanding layers of data, hardware, signals, and governed memory</title>
+  <rect width="1672" height="941" fill="#f8f7f2"/>
+  <g fill="none" stroke="#191919">
+    <rect x="662" y="322" width="348" height="296" rx="148" stroke-width="3"/>
+    <rect x="516" y="226" width="640" height="488" rx="16" stroke-width="3"/>
+    <rect x="358" y="126" width="956" height="688" rx="16" stroke-width="3"/>
+    <path d="M836 470H1116M836 470H556M836 470V270M836 470V670" stroke-width="3"/>
+    <circle cx="1116" cy="470" r="24" stroke-width="3"/>
+    <circle cx="556" cy="470" r="24" stroke-width="3"/>
+    <circle cx="836" cy="270" r="24" stroke-width="3"/>
+    <circle cx="836" cy="670" r="24" stroke-width="3"/>
+  </g>
+  <rect x="334" y="102" width="1004" height="736" rx="22" fill="none" stroke="#e23b28" stroke-width="12"/>
+  <circle cx="836" cy="470" r="42" fill="#191919"/>
+  <circle cx="1116" cy="470" r="12" fill="#e23b28"/>
+  <circle cx="556" cy="470" r="12" fill="#e23b28"/>
+  <circle cx="836" cy="270" r="12" fill="#e23b28"/>
+  <circle cx="836" cy="670" r="12" fill="#e23b28"/>
+</svg>

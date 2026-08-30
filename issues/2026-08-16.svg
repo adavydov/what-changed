@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1672 941" role="img" aria-labelledby="title">
+  <title id="title">A stream of actions passes through a policy gate while one exception is escalated</title>
+  <rect width="1672" height="941" fill="#f8f7f2"/>
+  <g fill="none" stroke="#191919" stroke-width="2">
+    <path d="M170 250H670"/>
+    <path d="M170 340H670"/>
+    <path d="M170 430H670"/>
+    <path d="M170 520H670"/>
+    <path d="M170 610H670"/>
+    <path d="M1002 250H1502"/>
+    <path d="M1002 340H1502"/>
+    <path d="M1002 430H1502"/>
+    <path d="M1002 520H1502"/>
+    <path d="M1002 610H1502"/>
+    <rect x="670" y="170" width="332" height="520" rx="10"/>
+    <path d="M760 300H912"/>
+    <path d="M760 390H912"/>
+    <path d="M760 480H912"/>
+    <path d="M760 570H912"/>
+    <circle cx="170" cy="250" r="20"/>
+    <circle cx="170" cy="340" r="20"/>
+    <circle cx="170" cy="430" r="20"/>
+    <circle cx="170" cy="520" r="20"/>
+    <circle cx="170" cy="610" r="20"/>
+    <circle cx="1502" cy="250" r="20"/>
+    <circle cx="1502" cy="340" r="20"/>
+    <circle cx="1502" cy="520" r="20"/>
+    <circle cx="1502" cy="610" r="20"/>
+  </g>
+  <rect x="652" y="145" width="36" height="570" fill="#191919"/>
+  <rect x="984" y="145" width="36" height="570" fill="#191919"/>
+  <path d="M1002 430C1128 430 1166 260 1245 190C1302 140 1370 130 1502 130" fill="none" stroke="#e23b28" stroke-width="12"/>
+  <path d="M1470 101L1508 130L1470 160" fill="none" stroke="#e23b28" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="836" cy="430" r="28" fill="#e23b28"/>
+  <circle cx="1502" cy="130" r="20" fill="#e23b28"/>
+</svg>

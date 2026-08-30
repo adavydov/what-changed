@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1672 941" role="img" aria-labelledby="title">
+  <title id="title">Task cards cross the boundary between two job roles</title>
+  <rect width="1672" height="941" fill="#f8f7f2"/>
+  <g fill="none" stroke="#191919" stroke-width="2">
+    <rect x="160" y="150" width="565" height="640" rx="8"/>
+    <rect x="947" y="150" width="565" height="640" rx="8"/>
+    <circle cx="442" cy="310" r="72"/>
+    <path d="M310 560C310 480 370 430 442 430C514 430 574 480 574 560V665H310Z"/>
+    <circle cx="1230" cy="310" r="72"/>
+    <path d="M1098 560C1098 480 1158 430 1230 430C1302 430 1362 480 1362 560V665H1098Z"/>
+    <path d="M836 120V821" stroke-dasharray="18 16"/>
+    <rect x="292" y="205" width="190" height="70" rx="6"/>
+    <rect x="1188" y="590" width="190" height="70" rx="6"/>
+    <rect x="612" y="355" width="190" height="70" rx="6"/>
+    <rect x="870" y="500" width="190" height="70" rx="6"/>
+  </g>
+  <path d="M706 425C770 425 790 500 870 500" fill="none" stroke="#e23b28" stroke-width="12"/>
+  <path d="M850 475L882 500L850 526" fill="none" stroke="#e23b28" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="836" cy="465" r="30" fill="#e23b28"/>
+</svg>
